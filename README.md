@@ -1,2 +1,2 @@
 # text-editor-space
-Used for codespace
+Used for initialising codespace editor quickly
